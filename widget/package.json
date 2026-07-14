@@ -1,0 +1,12 @@
+{
+  "name": "smartrecruiters-internal-jobs",
+  "version": "1.0.0",
+  "description": "SmartRecruiters Internal Job Board Widget",
+  "main": "index.js",
+  "staffbase": {
+    "widget": {
+      "icon": "briefcase",
+      "entry": "index.js"
+    }
+  }
+}
