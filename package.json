@@ -2,18 +2,11 @@
   "name": "smartrecruiters-internal-jobs",
   "version": "1.0.0",
   "description": "SmartRecruiters Internal Job Board Widget",
-  "main": "dist/index.js",
-  "scripts": {
-    "build": "webpack --mode production"
-  },
+  "main": "main.js",
   "staffbase": {
     "widget": {
       "icon": "briefcase",
-      "entry": "src/index.js"
+      "entry": "main.js"
     }
-  },
-  "devDependencies": {
-    "webpack": "^5.108.4",
-    "webpack-cli": "^7.2.1"
   }
 }
